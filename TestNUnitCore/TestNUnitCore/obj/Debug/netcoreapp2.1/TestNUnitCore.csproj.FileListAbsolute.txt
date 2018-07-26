@@ -1,0 +1,11 @@
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\bin\Debug\netcoreapp2.1\TestNUnitCore.deps.json
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\bin\Debug\netcoreapp2.1\TestNUnitCore.runtimeconfig.json
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\bin\Debug\netcoreapp2.1\TestNUnitCore.runtimeconfig.dev.json
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\bin\Debug\netcoreapp2.1\TestNUnitCore.dll
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\obj\Debug\netcoreapp2.1\TestNUnitCore.csproj.CoreCompileInputs.cache
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\obj\Debug\netcoreapp2.1\TestNUnitCore.AssemblyInfoInputs.cache
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\obj\Debug\netcoreapp2.1\TestNUnitCore.AssemblyInfo.cs
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\bin\Debug\netcoreapp2.1\TestNUnitCore.pdb
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\obj\Debug\netcoreapp2.1\TestNUnitCore.dll
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\obj\Debug\netcoreapp2.1\TestNUnitCore.pdb
+C:\_ppalasz\Test\TDD\TestNUnitCore\TestNUnitCore\obj\Debug\netcoreapp2.1\TestNUnitCore.csprojAssemblyReference.cache

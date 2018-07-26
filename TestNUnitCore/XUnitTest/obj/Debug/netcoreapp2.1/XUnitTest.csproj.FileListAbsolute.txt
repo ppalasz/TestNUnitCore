@@ -1,0 +1,12 @@
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.deps.json
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.dll
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csprojAssemblyReference.cache
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CoreCompileInputs.cache
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfoInputs.cache
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.AssemblyInfo.cs
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\bin\Debug\netcoreapp2.1\XUnitTest.pdb
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.dll
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.pdb
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\bin\Debug\netcoreapp2.1\TestNUnitCore.dll
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\bin\Debug\netcoreapp2.1\TestNUnitCore.pdb
+C:\_ppalasz\Test\TDD\TestNUnitCore\XUnitTest\obj\Debug\netcoreapp2.1\XUnitTest.csproj.CopyComplete
